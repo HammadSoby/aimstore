@@ -1,0 +1,37 @@
+#required{
+    color: red;
+}
+.alert-p{
+    color: #3c763d;
+}
+.action{
+width: 80px;
+}
+.modal-content{
+    background-image: url(../bg/blurred-background-1.jpg);
+}
+.form-control{
+    color: white !important;
+}
+.form-control[disabled], .form-control[readonly], fieldset[disabled]{
+    background-color: transparent;
+}
+#login-body{
+    background-color: #444;
+    background-image: url(../bg/blurred-background-1.jpg);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    color: #fff;
+}
+.share-link:hover{
+    color: black !important;
+}
+li label{
+    color: black;
+}
+.table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th{
+    background: transparent !important;
+    color: white !important;
+}
